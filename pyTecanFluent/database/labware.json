@@ -1,0 +1,172 @@
+{
+    "FCA, 10ul SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 10
+    },
+    "FCA, 50ul SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 50
+    },
+    "FCA, 200ul SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "FCA, 1000ul SBS" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 1000
+    },
+    "FCA, 10ul Filtered SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 10
+    },
+    "FCA, 50ul Filtered SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 50
+    },
+    "FCA, 200ul Filtered SBS High" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "FCA, 1000ul Filtered SBS" : {
+        "target_location" : ["Nest7mm_Pos"],
+        "category" : "tip",
+        "wells" : 96,
+        "max_volume" : 1000
+    },
+    "100ml_1" : {
+        "target_location" : ["Trough_100ml_3"],
+        "category" : "trough",
+        "wells" : 1,
+        "max_volume" : 100000
+    },
+    "100ml_1 waste" : {
+        "target_location" : ["Trough_100ml_3"],
+        "category" : "trough",
+        "wells" : 1,
+        "max_volume" : 100000
+    },
+    "25ml_1" : {
+        "target_location" : ["Trough_100ml_3"],
+        "category" : "trough",
+        "wells" : 1,
+        "max_volume" : 25000
+    },
+    "25ml_1 waste" : {
+        "target_location" : ["Trough_100ml_3"],
+        "category" : "trough",
+        "wells" : 1,
+        "max_volume" : 25000
+    },
+    "Eppi_5ml_2X_tube_rack" : {
+        "target_location" : ["Trough_100ml_Wash_1"],
+        "category" : "trough",
+        "wells" : 2,
+        "max_volume" : 4800
+    },
+    "Falcon_10ml_3X_tube_rack" : {
+        "target_location" : ["Trough_100ml_Wash_1"],
+        "category" : "trough",
+        "wells" : 3,
+        "max_volume" : 9800
+    },    
+    "96 Well Eppendorf TwinTec PCR" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 200
+    },    
+    "PCR Adapter 96 Well and 96 Well Eppendorf TwinTec PCR" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "384 Well Biorad PCR" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 384,
+        "max_volume" : 40
+    },
+    "PCR Adapter 384 Well and 384 Well Biorad PCR" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 384,
+        "max_volume" : 40
+    },
+    "OptiPlate_96F" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 300
+    },
+    "96 Well Axygen semi skirted and adapter" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "Alpaqua Magnum FLX 96 well" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "Alpaqua Magnum 96 Well and 96 Well Eppendorf TwinTec PCR" : {
+        "target_location" : ["Nest61mm_Pos"],
+        "category" : "plate",
+        "wells" : 96,
+        "max_volume" : 200
+    },
+    "1.5ml Eppendorf" : {
+        "target_location" : ["eppendorf"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 1200
+    },
+    "1.5ml Eppendorf waste" : {
+        "target_location" : ["eppendorf"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 1200
+    },
+    "2ml Eppendorf" : {
+        "target_location" : ["eppendorf"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 1800
+    },
+    "2ml Eppendorf waste" : {
+        "target_location" : ["eppendorf"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 1800
+    },
+    "5ml Eppendorf waste" : {
+        "target_location" : ["eppendorf_5ml"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 4800
+    },
+    "10ml Falcon" : {
+        "target_location" : ["Falcon10_Pos_1"],
+        "category" : "tube",
+        "wells" : 1,
+        "max_volume" : 10000,
+	"allowed_tips" : [1000,200,50]
+    }
+}
+
